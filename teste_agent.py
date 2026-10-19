@@ -26,12 +26,12 @@ if "historico" not in st.session_state:
 st.markdown("""
     <style>
         #MainMenu {visibility: hidden;}
-        header {visibility: hidden;}
+        .stDeployButton {display: none;}
         footer {visibility: hidden;}
 
         /* Aumenta o título principal */
         h1 {
-            font-size: 50px !important;
+            font-size: clamp(35px, 5vw, 60px) !important;
         }
 
 
