@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#120907"
+backgroundColor = "#333d7a" # Muda de dark mode para um fundo claro elegante
+secondaryBackgroundColor = "#ffffff"
+textColor = "#949599"
+font = "sans serif"
